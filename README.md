@@ -2,9 +2,9 @@
 
 <div align="center">
 
-![Portfolio Banner](Photos/photo.jpeg)
+![Portfolio Banner](Photos/prof2.jpg)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0284c7?style=for-the-badge&logo=github)](https://shahmeetk.github.io/Resume)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0284c7?style=for-the-badge&logo=github)](https://shahmeetk.github.io)
 [![Resume](https://img.shields.io/badge/Resume-View%20Online-0ea5e9?style=for-the-badge&logo=adobe)](https://rxresu.me/shahmeetk/cloud-and-ai-practice-lead)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/meetshah10290/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/shahmeetk)
@@ -117,7 +117,7 @@ This repository serves as my professional portfolio and contains:
 
 ## 🔄 Automatic Updates
 
-This portfolio is set up with GitHub Actions to automatically deploy updates to GitHub Pages whenever changes are pushed to the main branch. This ensures that my portfolio is always up-to-date with my latest achievements and projects.
+This portfolio is set up with GitHub Actions to automatically deploy updates to GitHub Pages whenever changes are pushed to the main branch. This ensures that my portfolio is always up-to-date with my latest achievements and projects. Visit [shahmeetk.github.io](https://shahmeetk.github.io) to see the live version.
 
 ## 📫 Contact Me
 

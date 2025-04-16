@@ -3,12 +3,18 @@
     --secondary-color: #0ea5e9;
     --dark-color: #0c4a6e;
     --light-color: #e0f2fe;
+    --accent-color: #3b82f6;
+    --success-color: #10b981;
+    --warning-color: #f59e0b;
     --gray-color: #64748b;
     --background-color: #f8fafc;
     --text-color: #1e293b;
     --border-radius: 8px;
     --box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    --box-shadow-hover: 0 10px 15px rgba(0, 0, 0, 0.1);
     --transition: all 0.3s ease;
+    --gradient-primary: linear-gradient(135deg, var(--primary-color), var(--accent-color));
+    --gradient-dark: linear-gradient(135deg, var(--dark-color), #164e63);
 }
 
 * {
@@ -32,9 +38,33 @@ body {
 
 /* Header Styles */
 header {
-    background: linear-gradient(135deg, var(--primary-color), var(--dark-color));
+    background: var(--gradient-dark);
     color: white;
-    padding: 60px 0 30px;
+    padding: 80px 0 40px;
+    position: relative;
+    overflow: hidden;
+}
+
+header::before {
+    content: '';
+    position: absolute;
+    top: -50px;
+    right: -50px;
+    width: 300px;
+    height: 300px;
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 50%;
+}
+
+header::after {
+    content: '';
+    position: absolute;
+    bottom: -80px;
+    left: -80px;
+    width: 200px;
+    height: 200px;
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 50%;
 }
 
 .header-content {
@@ -48,12 +78,21 @@ header {
 }
 
 .profile-image img {
-    width: 180px;
-    height: 180px;
+    width: 200px;
+    height: 200px;
     border-radius: 50%;
-    border: 4px solid white;
-    box-shadow: var(--box-shadow);
+    border: 5px solid rgba(255, 255, 255, 0.3);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
     object-fit: cover;
+    transition: var(--transition);
+    position: relative;
+    z-index: 1;
+}
+
+.profile-image img:hover {
+    transform: scale(1.05);
+    border-color: white;
+    box-shadow: 0 12px 25px rgba(0, 0, 0, 0.25);
 }
 
 .header-text h1 {
@@ -154,7 +193,7 @@ nav ul li a:hover {
 
 /* About Section */
 .about-content {
-    max-width: 800px;
+    max-width: 900px;
     margin: 0 auto;
     text-align: center;
 }
@@ -163,6 +202,83 @@ nav ul li a:hover {
     margin-bottom: 20px;
     font-size: 1.1rem;
     line-height: 1.8;
+}
+
+.highlight-text {
+    font-size: 1.4rem;
+    font-weight: 500;
+    color: var(--primary-color);
+    line-height: 1.6;
+    margin-bottom: 30px;
+    position: relative;
+    padding: 0 20px;
+}
+
+.highlight-text::before,
+.highlight-text::after {
+    content: '"';
+    font-size: 2rem;
+    color: var(--accent-color);
+    opacity: 0.4;
+    position: absolute;
+}
+
+.highlight-text::before {
+    left: 0;
+    top: -10px;
+}
+
+.highlight-text::after {
+    right: 0;
+    bottom: -20px;
+}
+
+.about-highlights {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 25px;
+    margin: 40px 0;
+}
+
+.highlight-item {
+    background-color: white;
+    border-radius: var(--border-radius);
+    padding: 25px;
+    box-shadow: var(--box-shadow);
+    transition: var(--transition);
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.highlight-item:hover {
+    transform: translateY(-5px);
+    box-shadow: var(--box-shadow-hover);
+}
+
+.highlight-icon {
+    width: 60px;
+    height: 60px;
+    background: var(--gradient-primary);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+    color: white;
+    font-size: 1.5rem;
+}
+
+.highlight-content h4 {
+    color: var(--dark-color);
+    margin-bottom: 10px;
+    font-size: 1.2rem;
+}
+
+.highlight-content p {
+    margin-bottom: 0;
+    font-size: 1rem;
 }
 
 .cta-buttons {
