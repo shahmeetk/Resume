@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Portfolio Banner](Photos/prof2.jpg)
+<img src="Photos/prof2.jpg" alt="Meet Shah" width="300" style="border-radius: 10px;" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0284c7?style=for-the-badge&logo=github)](https://shahmeetk.github.io/Resume)
 [![Resume](https://img.shields.io/badge/Resume-View%20Online-0ea5e9?style=for-the-badge&logo=adobe)](https://rxresu.me/shahmeetk/cloud-and-ai-practice-lead)
@@ -13,9 +13,9 @@
 
 ## 👨‍💻 About Me
 
-I am a **Cloud & AI Practice Lead** with extensive experience in designing, implementing, and managing cloud infrastructure, AI/ML solutions, and DevSecOps practices. With a strong background in multi-cloud architecture (Azure, AWS, GCP, Oracle Cloud), I specialize in building scalable, secure, and efficient cloud solutions.
+I am a **Cloud & AI Practice Lead** specializing in the intersection of artificial intelligence, cloud computing, and security. My expertise centers on implementing **AIOps solutions** that leverage machine learning for predictive analytics, automated remediation, and intelligent observability across complex cloud environments.
 
-Currently pursuing a **Ph.D. in Computer Science** with a focus on AIOps, AI-driven Cloud Infrastructure, Observability & Intelligent Automation, I am passionate about leveraging cutting-edge technologies to solve complex business problems.
+With deep expertise in **multi-cloud architecture** (Azure, AWS, GCP) and **DevSecOps practices**, I build secure, scalable AI-powered cloud ecosystems that transform how organizations operate. Currently pursuing a **Ph.D. in Computer Science** focused on AI-driven cloud infrastructure and intelligent automation, I'm researching next-generation approaches that combine advanced AI techniques with robust security frameworks.
 
 ## 🚀 Professional Experience
 
