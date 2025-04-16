@@ -7,14 +7,14 @@
     "location": "Dubai, UAE",
     "url": {
       "label": "",
-      "href": ""
+      "href": "https://shahmeetk.github.io"
     },
     "customFields": [],
     "picture": {
       "url": "https://storage.rxresu.me/cm9i1u1dg19p0q9p3ec82g2q2/pictures/e2ptodreky1qn69dgxi0hnfl.jpg",
-      "size": 64,
-      "aspectRatio": 1,
-      "borderRadius": 9999,
+      "size": 90,
+      "aspectRatio": 0.75,
+      "borderRadius": 0,
       "effects": {
         "hidden": false,
         "border": false,
