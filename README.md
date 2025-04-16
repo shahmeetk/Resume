@@ -1,4 +1,6 @@
-# Meet Shah - Professional Portfolio (Archived)
+# Meet Shah - Professional Portfolio (Deprecated)
+
+⚠️ **This repository is deprecated. Please visit [shahmeetk.github.io](https://shahmeetk.github.io/) for my current portfolio.**
 
 <div align="center">
 
