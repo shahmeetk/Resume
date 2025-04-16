@@ -2,9 +2,9 @@
 
 <div align="center">
 
-<img src="src/images/prof2.jpg" alt="Meet Shah" width="300" style="border-radius: 10px;" />
+<img src="assets/images/prof2.jpg" alt="Meet Shah" width="300" style="border-radius: 10px;" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0284c7?style=for-the-badge&logo=github)](https://shahmeetk.github.io/Resume)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0284c7?style=for-the-badge&logo=github)](https://shahmeetk.github.io)
 [![Resume](https://img.shields.io/badge/Resume-View%20Online-0ea5e9?style=for-the-badge&logo=adobe)](https://rxresu.me/shahmeetk/cloud-and-ai-practice-lead)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/meetshah10290/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/shahmeetk)
@@ -111,13 +111,17 @@ I hold numerous certifications across multiple platforms. View my complete certi
 This repository serves as my professional portfolio and contains:
 
 - **Website**: A responsive portfolio website showcasing my skills and experience
-- **Resume**: Available in multiple formats (PDF, Word) for different roles
+- **Resume**: PDF version of my resume
 - **Certifications**: Links to my certification repository
-- **Projects**: Documentation of key projects and achievements
+- **Assets**: Images, CSS, and JavaScript files for the portfolio
+
+## 📝 Blog
+
+My technical blog posts are available in a separate repository at [github.com/shahmeetk/blogs](https://github.com/shahmeetk/blogs).
 
 ## 🔄 Automatic Updates
 
-This portfolio is set up with GitHub Actions to automatically deploy updates to GitHub Pages whenever changes are pushed to the main branch. This ensures that my portfolio is always up-to-date with my latest achievements and projects. Visit [shahmeetk.github.io/Resume](https://shahmeetk.github.io/Resume) to see the live version.
+This portfolio is set up with GitHub Actions to automatically deploy updates to GitHub Pages whenever changes are pushed to the main branch. This ensures that my portfolio is always up-to-date with my latest achievements and projects. Visit [shahmeetk.github.io](https://shahmeetk.github.io) to see the live version.
 
 ## 📫 Contact Me
 
