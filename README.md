@@ -1,17 +1,11 @@
-# Meet Shah - Professional Portfolio (Deprecated)
+# Meet Shah - Resume Resources
 
-⚠️ **This repository is deprecated. Please visit [shahmeetk.github.io](https://shahmeetk.github.io/) for my current portfolio.**
-
-<div align="center">
-
-<img src="assets/images/prof2.jpg" alt="Meet Shah" width="300" style="border-radius: 10px;" />
+This repository contains resources related to my professional resume and career materials.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0284c7?style=for-the-badge&logo=github)](https://shahmeetk.github.io)
 [![Resume](https://img.shields.io/badge/Resume-View%20Online-0ea5e9?style=for-the-badge&logo=adobe)](https://rxresu.me/shahmeetk/cloud-and-ai-practice-lead)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/meetshah10290/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/shahmeetk)
-
-</div>
 
 ## 👨‍💻 About Me
 
@@ -108,16 +102,19 @@ I hold numerous certifications across multiple platforms. View my complete certi
 - **Multi-Cloud Governance Framework** - Emirates Group IT
 - **DevSecOps Transformation** - eInfochips
 
-## ⚠️ Repository Status: Archived
+## 📁 Repository Contents
 
-**This repository has been archived and is no longer maintained.**
+This repository contains the following resources:
 
-### New Locations
+- **AiOPs**: Resume and materials related to AIOps roles
+- **CloudOps**: Resume and materials related to Cloud Operations roles
+- **Photos**: Professional profile photos
+- **cloud-and-ai-practice-lead.pdf**: Current resume in PDF format
 
-- **Portfolio Website**: My professional portfolio is now available at [shahmeetk.github.io](https://shahmeetk.github.io)
+## 🔗 Related Resources
+
+- **Portfolio Website**: My professional portfolio is available at [shahmeetk.github.io](https://shahmeetk.github.io)
 - **Blog Posts**: My technical blog posts are available at [github.com/shahmeetk/blogs](https://github.com/shahmeetk/blogs)
-
-Please update your bookmarks and references to use the new URLs. This repository is kept for historical purposes only and will not receive any updates.
 
 ## 📫 Contact Me
 
@@ -125,7 +122,3 @@ Please update your bookmarks and references to use the new URLs. This repository
 - **LinkedIn**: [linkedin.com/in/meetshah10290](https://www.linkedin.com/in/meetshah10290/)
 - **GitHub**: [github.com/shahmeetk](https://github.com/shahmeetk)
 - **Location**: Dubai, United Arab Emirates
-
-## 📝 License
-
-This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
