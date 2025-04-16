@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="Photos/prof2.jpg" alt="Meet Shah" width="300" style="border-radius: 10px;" />
+<img src="assets/images/prof2.jpg" alt="Meet Shah" width="300" style="border-radius: 10px;" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0284c7?style=for-the-badge&logo=github)](https://shahmeetk.github.io/Resume)
 [![Resume](https://img.shields.io/badge/Resume-View%20Online-0ea5e9?style=for-the-badge&logo=adobe)](https://rxresu.me/shahmeetk/cloud-and-ai-practice-lead)
