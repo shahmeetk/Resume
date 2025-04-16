@@ -28,5 +28,4 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: .
-          cname: shahmeetk.github.io
           force_orphan: true
