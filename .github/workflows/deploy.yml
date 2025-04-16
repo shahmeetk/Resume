@@ -1,9 +1,8 @@
-name: Deploy to GitHub Pages
+name: Deploy to GitHub Pages (Disabled)
 
+# This workflow is now disabled as the repository is archived
 on:
-  push:
-    branches:
-      - main
+  # Removed push trigger to disable automatic deployments
   workflow_dispatch:
 
 permissions:
@@ -23,10 +22,16 @@ jobs:
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
 
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: .
-          force_orphan: true
-          cname: shahmeetk.github.io
+      - name: Display Archive Notice
+        run: |
+          echo "This repository is archived and deployments are disabled."
+          echo "Please visit https://shahmeetk.github.io for the current portfolio."
+
+      # Deployment step is commented out as the repository is archived
+      # - name: Deploy to GitHub Pages
+      #   uses: peaceiris/actions-gh-pages@v3
+      #   with:
+      #     github_token: ${{ secrets.GITHUB_TOKEN }}
+      #     publish_dir: .
+      #     force_orphan: true
+      #     cname: shahmeetk.github.io

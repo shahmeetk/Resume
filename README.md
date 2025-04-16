@@ -1,4 +1,4 @@
-# Meet Shah - Professional Portfolio
+# Meet Shah - Professional Portfolio (Archived)
 
 <div align="center">
 
@@ -106,22 +106,16 @@ I hold numerous certifications across multiple platforms. View my complete certi
 - **Multi-Cloud Governance Framework** - Emirates Group IT
 - **DevSecOps Transformation** - eInfochips
 
-## 📂 Portfolio Structure
+## ⚠️ Repository Status: Archived
 
-This repository serves as my professional portfolio and contains:
+**This repository has been archived and is no longer maintained.**
 
-- **Website**: A responsive portfolio website showcasing my skills and experience
-- **Resume**: PDF version of my resume
-- **Certifications**: Links to my certification repository
-- **Assets**: Images, CSS, and JavaScript files for the portfolio
+### New Locations
 
-## 📝 Blog
+- **Portfolio Website**: My professional portfolio is now available at [shahmeetk.github.io](https://shahmeetk.github.io)
+- **Blog Posts**: My technical blog posts are available at [github.com/shahmeetk/blogs](https://github.com/shahmeetk/blogs)
 
-My technical blog posts are available in a separate repository at [github.com/shahmeetk/blogs](https://github.com/shahmeetk/blogs).
-
-## 🔄 Automatic Updates
-
-This portfolio is set up with GitHub Actions to automatically deploy updates to GitHub Pages whenever changes are pushed to the main branch. This ensures that my portfolio is always up-to-date with my latest achievements and projects. Visit [shahmeetk.github.io](https://shahmeetk.github.io) to see the live version.
+Please update your bookmarks and references to use the new URLs. This repository is kept for historical purposes only and will not receive any updates.
 
 ## 📫 Contact Me
 
